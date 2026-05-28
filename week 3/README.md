@@ -1,47 +1,25 @@
-CYART Red Teaming Project
+# CYART Red Teaming Project
 
-Week 3 Red Team Operations
+## Overview
+CYART Red Teaming Project is a structured cybersecurity learning and documentation repository focused on red-team methodologies, 
+penetration testing workflows, reconnaissance operations, vulnerability tracking, and reporting practices.
 
-Created By
-
-Arch / SidVela
-
----
-
-Project Structure
-
-- Notes
-- Screenshots
-- Reports
-- Logs
-- Workflow
-- Tools
+This repository is designed for:
+- Educational cybersecurity labs
+- Red-team workflow documentation
+- Penetration testing practice
+- Git/GitHub portfolio development
+- Security research organization
 
 ---
 
-Topics Covered
+# Repository Structure
 
-1. OSINT and Reconnaissance
-2. Initial Access
-3. Vulnerability Research
-4. Lateral Movement
-5. Persistence
-6. Evasion Techniques
-7. Reporting
-
----
-
-Environment
-
-- Kali Linux
-- GitHub
-- Local Lab Environment
-- Docker
-- DVWA
-- Metasploit
-
----
-
-Ethical Notice
-
-This project is created only for educational and authorized lab testing purposes.
+```text
+week 3/
+├── Notes/
+├── Reports/
+├── Logs/
+├── Screenshots/
+├── Workflow/
+└── Tools/

@@ -10,3 +10,10 @@ CYART Week 3 Task Workflow
 [ ] Upload Evidence Screenshots
 [ ] Maintain Logs
 [ ] Push Updates to GitHub
+# Completed Tasks
+
+- [x] Recon-ng enumeration
+- [x] DNS enumeration
+- [x] Whois lookup
+- [x] Nmap service scan
+- [x] OSINT documentation
