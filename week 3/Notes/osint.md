@@ -104,3 +104,28 @@ nmap -sV example.com
 
 # Ethical Notice
 Testing performed only for educational and authorized purposes.
+
+
+
+## Phone Intelligence Gathering Practical
+
+### Objective
+Performed OSINT-based phone intelligence gathering using PhoneInfoga.
+
+### Target Number
++14155552671 (Sample/Test Number)
+
+### Actions Performed
+- Executed phone number intelligence scan
+- Enumerated country information
+- Checked carrier/provider details
+- Gathered public OSINT references
+
+### Findings
+- Successfully demonstrated phone reconnaissance workflow
+- Identified metadata associated with target number format
+- Verified OSINT enumeration process
+
+### MITRE ATT&CK Mapping
+- T1593 – Search Open Websites/Domains
+- T1595 – Active Reconnaissance
